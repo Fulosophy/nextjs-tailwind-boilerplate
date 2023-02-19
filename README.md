@@ -19,7 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 
-This project uses Tailwind CSS and or Tailwind UI https://tailwindcss.com/ || https://tailwindui.com
+This boiler plate uses Tailwind CSS and Tailwind UI https://tailwindcss.com/ || https://tailwindui.com
+
+While TailwindCSS is completely free, Tailwind UI only has a few free components. To get all access to tailwind UI components -> https://tailwindui.com/all-access
+You can also use https://tailwinduikit.com/ components as there are many more free ones on here.
 
 ## Learn More
 
