@@ -3,7 +3,7 @@
 
 NextJS preconfigured boiler plate with TailwindUI / CSS
 
-Uses Experimental APP DIR and TSX out of the box.
+Uses APP DIR and TSX.
 
 This boiler plate uses Tailwind CSS and Tailwind UI https://tailwindcss.com/ || https://tailwindui.com
 
